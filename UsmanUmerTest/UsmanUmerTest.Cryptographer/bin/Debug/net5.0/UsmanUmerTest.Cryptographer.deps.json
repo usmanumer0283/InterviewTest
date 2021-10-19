@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UsmanUmerTest.Cryptographer/1.0.0": {
+        "runtime": {
+          "UsmanUmerTest.Cryptographer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsmanUmerTest.Cryptographer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\bin\Debug\net5.0\UsmanUmerTest.Cryptographer.deps.json
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\bin\Debug\net5.0\UsmanUmerTest.Cryptographer.dll
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\bin\Debug\net5.0\ref\UsmanUmerTest.Cryptographer.dll
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\bin\Debug\net5.0\UsmanUmerTest.Cryptographer.pdb
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.csproj.AssemblyReference.cache
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.AssemblyInfoInputs.cache
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.AssemblyInfo.cs
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.csproj.CoreCompileInputs.cache
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.dll
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\ref\UsmanUmerTest.Cryptographer.dll
+C:\Users\aliar\Desktop\UsmanUmerTest\UsmanUmerTest.Cryptographer\obj\Debug\net5.0\UsmanUmerTest.Cryptographer.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UsmanUmerTest.Driver/1.0.0": {
+        "dependencies": {
+          "UsmanUmerTest.Cryptographer": "1.0.0"
+        },
+        "runtime": {
+          "UsmanUmerTest.Driver.dll": {}
+        }
+      },
+      "UsmanUmerTest.Cryptographer/1.0.0": {
+        "runtime": {
+          "UsmanUmerTest.Cryptographer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsmanUmerTest.Driver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsmanUmerTest.Cryptographer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
